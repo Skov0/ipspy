@@ -1,6 +1,6 @@
 # ipspy
 Simple python script for looking up IPv4 addresses from the terminal.
-Inspired by a picture i found of a similar script. (forgot the name though).
+Inspired by a picture i found of a similar script..
 
 ## Installation
 Please install termcolor with "pip install termcolor", before running the script.
