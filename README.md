@@ -1,5 +1,5 @@
 # ipspy
-Simple python script for looking up IPv4 addresses from the terminal.
+Simple python3 script for looking up IPv4 addresses from the terminal.
 Inspired by a picture i found of a similar script..
 
 ## Installation
