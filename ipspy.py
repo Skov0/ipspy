@@ -48,7 +48,7 @@ def main():
         try:
             ipAddress = str(socket.gethostbyname(ipAddress))
         except:
-            print (" [!] Failed to get IP Address from hostname..")
+            print (" [!] Failed to lookup IP address...)
 
     # request was a success, prepare to print
     cprint ("---------------------------------------", "red")
